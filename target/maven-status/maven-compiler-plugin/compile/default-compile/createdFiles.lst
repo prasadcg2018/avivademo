@@ -1,0 +1,4 @@
+com\example\demo\service\AvivaService.class
+com\example\demo\DemoAvivaApplication.class
+com\example\demo\controller\Controller.class
+com\example\demo\exceptions\ExceptionHandling.class
